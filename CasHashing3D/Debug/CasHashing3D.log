@@ -1,0 +1,11 @@
+﻿  Main.cc
+  KeyFileReader.cc
+d:\dss\prj_lab_ex\cashashing3d\pmpp_prj\cashashing3d\cashashing3d\keyfilereader.cc(12): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Generating Code...
+  CasHashing3D.vcxproj -> D:\DSS\Prj_Lab_Ex\CasHashing3D\pmpp_prj\CasHashing3D\Debug\CasHashing3D.exe
+  CasHashing3D.vcxproj -> D:\DSS\Prj_Lab_Ex\CasHashing3D\pmpp_prj\CasHashing3D\Debug\CasHashing3D.pdb (Full PDB)
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart*.dll" "D:\DSS\Prj_Lab_Ex\CasHashing3D\pmpp_prj\CasHashing3D\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart32_80.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart64_80.dll
+          2 file(s) copied.
